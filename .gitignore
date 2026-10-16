@@ -1,0 +1,28 @@
+﻿# Python Virtual Environments
+.venv/
+venv/
+env/
+
+# Local TTS Models & Weights
+models/
+*.onnx
+*.bin
+
+# Agent & AI configuration directories
+.agents/
+.gemini/
+
+# Python cache and byte-code
+__pycache__/
+*.py[cod]
+*.class
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated runtime audio files
+*.wav
+*.mp3
