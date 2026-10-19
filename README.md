@@ -19,7 +19,7 @@ VoxOverlay pairs a fast local Python daemon powered by **FastAPI**, **Kokoro-82M
 
 ## 📁 Repository Structure
 
-`
+```
 voxoverlay/
 ├── ext/                   # Chromium Manifest V3 browser extension
 │   ├── manifest.json      # Extension manifest
@@ -29,7 +29,7 @@ voxoverlay/
 ├── requirements.txt       # Python dependencies
 ├── server.py              # FastAPI server & Kokoro TTS inference engine
 └── README.md
-`
+```
 
 ---
 
